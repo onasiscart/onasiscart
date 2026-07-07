@@ -1,4 +1,4 @@
-# Welcome,, I'm Ona!
+# Welcome, I'm Ona!
 
 Welcome to my GitHub! My name is Ona Siscart, I am a 4th-year Data Science and Engineering student from Barcelona, currently completing my Bachelor's Degree at **EPFL**. 
 
@@ -18,9 +18,9 @@ I am detail-oriented, rigorous, and organized in my work and code. My current in
 ### Tech I work with
 
 * **Programming Languages:** Python, SQL, R, C++/C, TypeScript, HTML/CSS
-* **Deep Learning & NLP:** PyTorch, Hugging Face, LLM Fine-Tuning, Adapters/LoRA, OpenAI Agent SDK
-* **Data Science & ML:** Scikit-Learn, Pandas, NumPy, SciPy, PostgreSQL, MATLAB
-* **DevOps & Infrastructure:** Git, Linux, Slurm (Cluster Computing)
+* **Deep Learning:** PyTorch, Hugging Face, LLM Fine-Tuning, Adapters/LoRA, OpenAI Agent SDK
+* **Data Science and ML:** Scikit-Learn, Pandas, NumPy, SciPy, PostgreSQL, MATLAB
+* **DevOps and Infrastructure:** Git, Linux, Slurm (Cluster Computing)
 
 ---
 
