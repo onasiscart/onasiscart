@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to my GitHub! I am a 4th-year Data Science and Engineering student from Barcelona, currently completing my Bachelor's Degree at **EPFL**. 
+Welcome to my GitHub! My name is Ona Siscart, I am a 4th-year Data Science and Engineering student from Barcelona, currently completing my Bachelor's Degree at **EPFL**. 
 
 I am detail-oriented, rigorous, and organized in my work and code. My current interests lie in **Interpretability and AI Safety**, the **mathematical foundations of AI**, and **Large Language Models (LLMs)**. I am actively looking for research opportunities and am open to collaborating on side projects.
 
