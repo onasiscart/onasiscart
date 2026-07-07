@@ -15,7 +15,7 @@ I am detail-oriented, rigorous, and organized in my work and code. My current in
 
 ---
 
-### Tech I work with
+### Tech I've worked with
 
 * **Programming Languages:** Python, SQL, R, C++/C, TypeScript, HTML/CSS
 * **Deep Learning:** PyTorch, Hugging Face, LLM Fine-Tuning, Adapters/LoRA, OpenAI Agent SDK
