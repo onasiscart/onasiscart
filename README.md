@@ -1,8 +1,8 @@
-# Welcome!
+# Welcome to Ona's code corner!
 
 Welcome to my GitHub! My name is Ona Siscart, I am a 4th-year Data Science and Engineering student from Barcelona, currently completing my Bachelor's Degree at **EPFL**. 
 
-I am detail-oriented, rigorous, and organized in my work and code. My current interests lie in **Interpretability and AI Safety**, the **mathematical foundations of AI**, and **Large Language Models (LLMs)**. I am actively looking for research opportunities and am open to collaborating on side projects.
+I am detail-oriented, rigorous, and organized in my work and code. My current interests lie in **Interpretability and AI Safety**, the **mathematical foundations of AI**, and **Large Language Models (LLMs)**. I am actively looking for research opportunities and am open to collaborating on cool side projects.
 
 ---
 
@@ -15,5 +15,18 @@ I am detail-oriented, rigorous, and organized in my work and code. My current in
 
 ---
 
+### Tech I work with
+
+* **Programming Languages:** Python, SQL, R, C++/C, TypeScript, HTML/CSS
+* **Deep Learning & NLP:** PyTorch, Hugging Face, LLM Fine-Tuning, Adapters/LoRA, OpenAI Agent SDK
+* **Data Science & ML:** Scikit-Learn, Pandas, NumPy, SciPy, PostgreSQL, MATLAB
+* **DevOps & Infrastructure:** Git, Linux, Slurm (Cluster Computing)
+
+---
+
+### Get in touch
+
 Feel free to explore my full list of repositories below (or check my Pinned Repositories for direct access). Please contact me if you have any questions or interesting projects where I could be of use!
 
+* **[LinkedIn](https://www.linkedin.com/in/ona-siscart-noguer)**
+* **[onasiscart@icloud.com](mailto:onasiscart@icloud.com)**
