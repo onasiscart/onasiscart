@@ -10,7 +10,8 @@ I am detail-oriented, rigorous, and organized in my work and code. My current in
 
 * **[COVID-19 detection from coughs](https://github.com/onasiscart/COVID_19_Classification_from_coughs)** Deep Learning experiments and pipeline for CIVID-19 recognition from cough recordings. Developed as part of the NLP course at Universitat Politècnica de Catalunya
 * **[Language Identification using RNNs](https://github.com/onasiscart/Language_Identification)** Language Identification experiments and pipeline using RNNs. Developed as part of a NLP course at Unioversitat Politècnica de Catalunya.
-* **[Data Warehousing for Aviation Analytics](https://github.com/onasiscart/Data_Warehousing_Aviation_Analytics)** Project aimed at developing a fast and ribust ETL pipeline and DuckDB database to load aviation data into a Data Warehouse optimized for KPI querying. 
+* **[Data Warehousing for Aviation Analytics](https://github.com/onasiscart/Data_Warehousing_Aviation_Analytics)** Project aimed at developing a fast and ribust ETL pipeline and DuckDB database to load aviation data into a Data Warehouse optimized for KPI querying.
+* **[Barcelona Rental Market Intelligence](https://github.com/onasiscart/Predictive_Analytics_rentprice)** End-to-end Data Lakehouse and MLOps pipeline using PySpark, Delta Lake, MongoDB, Apache Airflow, and MLflow to predict neighborhood rental price tiers from traffic safety and cultural accessibility data.
 
 ---
 
